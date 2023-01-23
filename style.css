@@ -1,0 +1,69 @@
+*{margin:0; padding: 0;}
+
+body{background-color: black;}
+nav{
+
+    width:100%;
+    height: 60px;
+}
+a { 
+    color: black;
+}
+#nome{
+    font-size: 1.5rem;
+}
+.a-menu:link, .a-menu:visited{
+    color:black;
+    
+}
+.a-menu:hover, .a-menu:active{
+    color:#FFf;
+    
+}
+
+h1{
+    color:#FF8C00;
+}
+
+.cor1{
+    background-color:#FF8C00;
+    
+}
+
+footer{
+    padding: 10px;
+    width:100%;
+    height: 50px;
+    text-align: center;
+    background-color:#FF8C00;
+    color: black;
+    
+}
+#rodapé{
+    color: #fff;
+}
+.efeito:hover{
+    cursor: pointer;
+    transition-duration: 1s;
+    transform: scale(1.1, 1.1);
+}
+.space-1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.tamanholetra{
+    font-size: 70px;
+}
+.
+.space{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.back-fundo-input{
+    background-color:#FF8C00;
+    font-weight: bold;
+    color: #fff;
+
+
+}
